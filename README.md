@@ -37,7 +37,7 @@
     <br>
     <a href="https://www.linkedin.com/in/nada-hamada-9a0894231" target="_blank">LinkedIn</a>
     <br>
-    <a href="mailto:your-email@gmail.com">Gmail</a>
+    <a href="mailto:nody18255@gmail.com">Gmail</a>
 </p>
 
 <p>
