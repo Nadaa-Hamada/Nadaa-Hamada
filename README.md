@@ -47,7 +47,7 @@
     <br>
     ⚙️ Git, Linux/Ubuntu, GitHub  
     <br>
-    🔧 Visual Studio Code, Code::Blocks, Atmel Studio ,VMWare workstation, SQLSEVER
+    🔧 Visual Studio Code, Code::Blocks, Atmel Studio ,VMWare workstation, SQLServer
 </p>
 
 <div align="center">
