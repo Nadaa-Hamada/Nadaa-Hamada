@@ -45,9 +45,9 @@
     <br>
     💻 Python, C, C++ , dart
     <br>
-    ⚙️ Git, Linux/Ubuntu, GitHub , SQLSEVER 
+    ⚙️ Git, Linux/Ubuntu, GitHub  
     <br>
-    🔧 Visual Studio Code, Code::Blocks, Atmel Studio
+    🔧 Visual Studio Code, Code::Blocks, Atmel Studio .VMWare, SQLSEVER
 </p>
 
 <div align="center">
