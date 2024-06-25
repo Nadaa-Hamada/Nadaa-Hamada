@@ -51,7 +51,6 @@
 </p>
 
 <div align="center">
-    [![HitCount](http://hits.dwyl.com/Nadaa-Hamada/Nadaa-Hamada.svg)](http://hits.dwyl.com/Nadaa-Hamada/Nadaa-Hamada)
     <br>
     <i>Follow me:</i>
     <br>
